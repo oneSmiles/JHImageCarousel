@@ -6,4 +6,4 @@
 优点:解决了当图片很多的时候导致内存过高的问题
 
 缺点:当拖动过快时, scrollview尚未滚动停止, 会出现下一张图片未显示出来, 黑色. 因为我的原理是通过scrollviewEnd的代理方法, 在结束滚动时,瞬间切换回中间cell来达到无限循环的效果
-![image](https://github.com/oneSmiles/JHImageCarousel/4EB79B31-F3F6-49A2-AFE2-1FA47BCF5C0F.png)
+![image](https://github.com/oneSmiles/JHImageCarousel/lunbo.png)
